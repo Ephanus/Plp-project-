@@ -1,1 +1,3 @@
-TRIED TO ACHIEVE THE EXACT WEATHER APP THAT WE DEVELOPED DURING OUR BOOTCAMP
+# weather-app-bootcamp-project-webDev
+
+Welcome to the official github repo for the PLP Web Dev Team where you will learn how to create a functional Weather Web Application during this bootcamp
